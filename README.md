@@ -1,5 +1,6 @@
-👋 Hi, I’m @sankarebarri. I am an aspiring software programmer. My programming language is mainly Python, it's libraries for Data Science mainly Numpy, Pandas, and Matplotlib,
-and it's frameworks mainly Django(I can't love anything more). I have been learning Javascript recently too so i can be invincible with Django.
+👋 Hi, I’m @sankarebarri. I am a software programmer. My programming language is Python, it's libraries for Data Science mainly Numpy, Pandas, Matplotlib, Seaborn, and Matplotlib and it's Django framework(I can't love anything more).
+
+With HTML, CSS, Javascript, Django, and the above mentioned tools, i get things done!
 
 I will be sharing my codes and programs here. Please note that the codes here are my own way of solving problems and would be mostly for learning purpose only. 
 The codes(my own solutions) maybe less efficient than the one you know or the ones out there. You can use my codes for free but use them at your own discretion.
